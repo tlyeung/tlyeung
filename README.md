@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world!! 🤙
 
 <!--
 **tlyeung/tlyeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,4 +6,4 @@
 
 
 
-- 📫 How to reach me: <contact@tlyeung.com>
+- How to reach me: <contact@tlyeung.com>
